@@ -10,6 +10,10 @@ Por fim, ressalta-se que a comunicação da camada `Data` e a `Business` é feit
 ## Sobre
 Esse foi um projeto de Backend que utilizei para reproduzir o funcionamento do sistema que o YouTube utiliza, nele é possivel se cadastrar, fazer login e também atualizar a senha de usuário. Além disso o usuário pode criar, ler, e deletar vídeos.
 
+## API
+
+- [API](https://documenter.getpostman.com/view/10236954/SzezdXbz?version=latest)
+
 ## Instruções para rodar
 As instruções são:
 1. `npm install` para instalar todas as dependências;
