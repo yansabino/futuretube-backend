@@ -15,8 +15,11 @@ Esse foi um projeto de Backend que utilizei para reproduzir o funcionamento do s
 - [API](https://documenter.getpostman.com/view/10236954/SzezdXbz?version=latest)
 
 ## Instruções para rodar
-As instruções são:
-1. `npm install` para instalar todas as dependências;
-1. `npm run start` para rodar localmente o projeto
-1. `npm run build` para gerar uma versão possível de ser deployada com os arquivos transpilados para Javascript
+
+- Clone o Repositório e com ele em sua máquina: `git clone https://github.com/yansabino/futuretube-frontend.git`
+- Agora basta abrir o terminal e navegar até o repositório: `cd futuretube-frontend`
+- E então instala-lo e rodar-lo:
+    1. `npm install` para instalar todas as dependências;
+    1. `npm run start` para rodar localmente o projeto
+    1. `npm run build` para gerar uma versão possível de ser deployada com os arquivos transpilados para Javascript
 
