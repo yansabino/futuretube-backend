@@ -15,7 +15,7 @@ Esse foi um projeto de Backend que utilizei para reproduzir o funcionamento do s
 - [API](https://documenter.getpostman.com/view/10236954/SzezdXbz?version=latest)
 
 ## Instruções para rodar
-
+### OBS: para rodar o projeto são necessarias as informações do banco de dados e a chave do token, caso queira, por favor entrar em contato comigo por esse email que eu enviarei o arquivo `.env`.
 - Clone o Repositório e com ele em sua máquina: `git clone https://github.com/yansabino/futuretube-frontend.git`
 - Agora basta abrir o terminal e navegar até o repositório: `cd futuretube-frontend`
 - E então instala-lo e rodar-lo:
